@@ -7,10 +7,10 @@ public class Program {
 		int x = d(15,5,0);
 		System.out.println(x);
 		
-// ejercicio b
+// ejercicio numer b
 		int y = p (2,5);
 		System.out.println(y);
-// ejercicio c		
+// ejercicio numero c		
 		int z = fac(5,1);
 		System.out.println(z);
 			
